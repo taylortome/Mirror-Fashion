@@ -1,3 +1,4 @@
 {
-   "livePreview.defaultPreviewPath": "/sobre.html"
+   "livePreview.defaultPreviewPath": "/sobre.html",
+   "livePreview.openPreviewTarget": "External Browser"
 }
